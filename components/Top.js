@@ -6,17 +6,17 @@ const Top = () => {
 
     return (
         <div className="mx-auto max-w-6xl">
-            <div className="flex md:flex-row flex-col-reverse gap-16 text-[#f8f8ff]">
+            <div className="flex md:flex-row flex-col-reverse gap-16 pb-8 text-[#f8f8ff]">
                 <div className="md:w-1/2 w-full md:mt-24">
-                    <h1 className="text-5xl font-bold md:w-[30rem]">Social Network Management</h1> 
+                    <h1 className="text-5xl font-bold md:w-[30rem]">Gestão de Redes Sociais</h1> 
                     <p className="mt-4 mb-4 md:w-96 text-3xl font-light italic">
-                       What do we promise? More than likes, <span className="font-bold">strategic management of your social networks!</span>
+                       O que prometemos? Mais que likes, <span className="font-bold">uma gestão estratégica das suas redes sociais!</span>
                     </p>
                     <p className="mb-4 md:w-96 text-justify font-medium">
-                       Manage your Social Networks by producing content according to a pre-established guideline and schedule to increase and retain your number of online followers. 
+                       Gerir as suas Redes Socias produzindo conteúdos de acordo com uma linha de orientação e um cronograma pré-estabelecidos, assim para aumentar e fidelizar o vosso número de seguidores online.
                     </p>
                     <p className="mb-4 md:w-96 text-justify font-medium">
-                       Inform and educate online followers about; your services and products, mission, vision, principles, and values to increase your website traffic 
+                       Informar e instruir os seguidores online quanto aos vossos serviços e produtos, missão, visão, princípios e valores para aumentar o tráfego do vosso website. 
                     </p>
                 </div>
 
